@@ -1,2 +1,5 @@
-# ophelia-reset-systems
-Simple reset systems and digital planning resources.
+# 7-Day Reset Home System
+
+A free, safe public resource generated and published by Ophelia.
+
+No secrets. No affiliate shorteners.
