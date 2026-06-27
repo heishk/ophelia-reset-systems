@@ -1,5 +1,6 @@
-# 7-Day Reset Home System
+# Ophelia Reset Systems
 
-A free, safe public resource generated and published by Ophelia.
+Public hub of simple reset systems and digital planning resources.
 
-No secrets. No affiliate shorteners.
+- 7-Day Reset Home System: https://heishk.github.io/ophelia-reset-systems/7-day-reset-home-system-guide.html
+- The 30-Day Budget Reset Planner: https://heishk.github.io/ophelia-reset-systems/budget-reset-planner-guide.html
